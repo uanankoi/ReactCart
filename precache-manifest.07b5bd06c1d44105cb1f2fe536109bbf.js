@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2cfeb83f49db8604e401acb8d40cb37a",
+    "revision": "556dde3e7083c396efbaf35ed10c2c63",
     "url": "/ReactCart/index.html"
   },
   {
-    "revision": "009ab2e0ea0725fb07b4",
-    "url": "/ReactCart/static/css/main.414f808f.chunk.css"
+    "revision": "3077b8a2231542508c35",
+    "url": "/ReactCart/static/css/main.f08fe018.chunk.css"
   },
   {
     "revision": "8da4c2d76449e17e865e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactCart/static/js/2.ba25f8a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "009ab2e0ea0725fb07b4",
-    "url": "/ReactCart/static/js/main.946c6a23.chunk.js"
+    "revision": "3077b8a2231542508c35",
+    "url": "/ReactCart/static/js/main.a9b49e38.chunk.js"
   },
   {
     "revision": "981be5d0354128ed50d2",
@@ -34,9 +34,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2d71178f342f146053bb35cf9bd2fe8b",
     "url": "/ReactCart/static/media/food2.2d71178f.png"
-  },
-  {
-    "revision": "78bf37737851a98f79898000971e84b7",
-    "url": "/ReactCart/static/media/ok.78bf3773.svg"
   }
 ]);
